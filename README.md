@@ -12,7 +12,8 @@ The player's character is very fragile so dodging enemies and positioning well i
 Arc Collector is still under development and additional features will be released with time.
 
 # Installing
-Zip file available in releases contains ready to play unity game, currently only for windows.
+Zip file available in [releases](https://github.com/LucienRoseblood/Arc-Colector/releases/latest) contains ready to play unity game, currently only for windows.
+
 
 # Credits
 - [Lucien Roseblood](https://github.com/LucienRoseblood) - code, art, game design
